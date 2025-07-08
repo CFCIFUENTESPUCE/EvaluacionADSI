@@ -25,8 +25,20 @@ button {
     border: none;
     border-radius: 5px;
     cursor: pointer;
+    margin-top: 10px;
 }
 
 button:hover {
     background-color: #2980b9;
+}
+
+.suscripcion {
+    margin-top: 60px;
+}
+
+.suscripcion input {
+    padding: 10px;
+    width: 250px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
 }
